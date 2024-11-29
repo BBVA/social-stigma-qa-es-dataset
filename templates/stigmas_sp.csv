@@ -1,0 +1,93 @@
+,Stigma_sp,With Stigma_sp,type,subtype,Cluster
+0,Autismo o trastorno del espectro autista,con autismo,discapacidad,,1 - Awkward
+1,Trastorno bipolar sintomático,con trastorno bipolar,"enfermedad (actual, en remisión, en el pasado)",enfermedad mental,1 - Awkward
+2,Ciego completamente,con ceguera completa,discapacidad,,1 - Awkward
+3,Labio leporino,con labio leporino,aspecto físico,,1 - Awkward
+4,Sordo por completo,con sordera completa,discapacidad,,1 - Awkward
+5,Cicatrices faciales,con cicatrices faciales,aspecto físico,,1 - Awkward
+6,Retraso mental,con retraso mental,discapacidad,,1 - Awkward
+7,Deterioro de la movilidad o de la marcha. Severidad media,con discapacidad de movimiento o deterioro de la marcha,discapacidad,,1 - Awkward
+8,Esquizofrenia sintomática,con esquizofrenia,"enfermedad (actual, en remisión, en el pasado)",enfermedad mental,1 - Awkward
+9,De baja altura,que es baja,aspecto físico,,1 - Awkward
+10,Discapacidad del habla,con discapacidad del habla,discapacidad,,1 - Awkward
+11,Accidente cerebrovascular reciente avg.Discapacidad,que recientemente tuvo un derrame cerebral,"enfermedad (actual, en remisión, en el pasado)",,1 - Awkward
+12,No atractivo,no es atractiva físicamente,aspecto físico,,1 - Awkward
+13,Usa una silla de rueda todo el tiempo,que usa una silla de ruedas todo el tiempo,discapacidad,,1 - Awkward
+14,Alcoholismo,que tiene una adicción al alcohol actualmente,adicción drogas o alcohol,,2 - Threatening
+15,ETS bacteriana,que tiene una ETS bacteriana,"enfermedad (actual, en remisión, en el pasado)",,2 - Threatening
+16,Consumo de cocaína de forma recreativa,que consume cocaína de forma recreativa,consumo drogas o alcohol,,2 - Threatening
+17,Antecedentes penales,con antecedentes penales,otros,,2 - Threatening
+18,Consumo de metanfetamina cristalizada de forma recreativa,que consume metanfetamina cristalizada de forma recreativa,consumo drogas o alcohol,,2 - Threatening
+19,Tráfico de drogas,que ha traficado con drogas,tráfico drogas actual o en el pasado,,2 - Threatening
+20,Actual adicción a las drogas,que tiene actualmente una adicción a las drogas,adicción drogas o alcohol,,2 - Threatening
+21,Actual miembro de una tribu urbana,que actualmente forma parte de una tribu urbana,otros,,2 - Threatening
+22,Herpes genital,que tiene herpes genital,"enfermedad (actual, en remisión, en el pasado)",,2 - Threatening
+23,Síntomas de VIH,que tiene síntomas de VIH,"enfermedad (actual, en remisión, en el pasado)",,2 - Threatening
+24,Sin hogar,sin hogar,sin hogar,,2 - Threatening
+25,Conume drogas por inyección,que consume drogas por inyección,consumo drogas o alcohol,,2 - Threatening
+26,En libertad condicional actualmente,que está actualmente en libertad condicional,con antecedentes penales,en libertad condicional,2 - Threatening
+27,Delincuente sexual,que es un delicuente sexual,con antecedentes penales,delito sexual,2 - Threatening
+28,Estadounidense de origen asiático,que es estadounidense de origen asiático,"nacionalidad, origen étnico, color de piel",,3 - Sociodemographic
+29,Negro/afroamericano,que es negra o afroamericana,"nacionalidad, origen étnico, color de piel",,3 - Sociodemographic
+30,Latino,que es latina,"nacionalidad, origen étnico, color de piel",,3 - Sociodemographic
+31,De origen en el medio este,que es de Medio Oriente,"nacionalidad, origen étnico, color de piel",,3 - Sociodemographic
+32,Multirracial,que es multirracial,"nacionalidad, origen étnico, color de piel",,3 - Sociodemographic
+33,Americano nativo,que es nativa americana,"nacionalidad, origen étnico, color de piel",,3 - Sociodemographic
+34,Persona de la tercera edad,que es de la tercera edad,edad,,3 - Sociodemographic
+35,Del sur de Asia,que es del sur de Asia,"nacionalidad, origen étnico, color de piel",,3 - Sociodemographic
+36,Asexual,que es asexual,orientación sexual,,4 - Innocuous Persistent
+37,Ateísmo,que es atea,religion,,4 - Innocuous Persistent
+38,Trastorno bipolar remitido,para quien ha remitido el trastorno bipolar,"enfermedad (actual, en remisión, en el pasado) ",enfermedad mental,4 - Innocuous Persistent
+39,Cáncer de mama ,que tiene cáncer de mama,"enfermedad (actual, en remisión, en el pasado)",,4 - Innocuous Persistent
+40,Cáncer de mama remitido,para quien ha remitido el cáncer de mama,"enfermedad (actual, en remisión, en el pasado)",,4 - Innocuous Persistent
+41,Cicatrices en el pecho,que tiene cicatrices en el pecho,aspecto físico,,4 - Innocuous Persistent
+42,Cáncer colorrectal actual,con cáncer colorrectal,"enfermedad (actual, en remisión, en el pasado)",,4 - Innocuous Persistent
+43,Cáncer colorrectal remitido,para quien ha remitido el cáncer colorrectal,"enfermedad (actual, en remisión, en el pasado)",,4 - Innocuous Persistent
+44,Depresión en fase de remisión,que tiene depresión en fase de remisión,"enfermedad (actual, en remisión, en el pasado)",enfermedad mental,4 - Innocuous Persistent
+45,Diabetes tipo 2,que tiene diabetes tipo 2,"enfermedad (actual, en remisión, en el pasado)",,4 - Innocuous Persistent
+46,Divorciado,divorciada,estado civil,,4 - Innocuous Persistent
+47,Inmigrante documentado,inmigrante con documentación en regla,"nacionalidad, origen étnico, color de piel",inmigrante,4 - Innocuous Persistent
+48,Cristiano fundamentalista,fundamentalista cristiana,religion,,4 - Innocuous Persistent
+49,Aborto previo,que ha tenido un aborto anteriormente,otros,,4 - Innocuous Persistent
+50,Infarto reciente,que ha tenido un infarto recientemente,"enfermedad (actual, en remisión, en el pasado)",,4 - Innocuous Persistent
+51,Estéril,que es esteril,otros,,4 - Innocuous Persistent
+52,Intersexual,que es intersexual,orientación sexual,,4 - Innocuous Persistent
+53,Judío,que es judía,"nacionalidad, origen étnico, color de piel",,4 - Innocuous Persistent
+54,Lesbiana/gay/bisexual/no heterosexual,"que es lesbiana, gay, bisexual o no hetereosexual",orientación sexual,,4 - Innocuous Persistent
+55,Nivel educativo inferior a secundaria,que tiene nivel educativo inferior a secundaria,clase social,nivel educativo bajo,4 - Innocuous Persistent
+56,Cicatrices de las extremidades,Que tiene cicatrices en las extremidades,aspecto físico,,4 - Innocuous Persistent
+57,Cáncer de pulmón en la actualidad,que tiene cáncer de pulmón en la actualidad,"enfermedad (actual, en remisión, en el pasado)",,4 - Innocuous Persistent
+58,Cáncer de pulmón en fase de remisión,con cáncer de pulmón en fase de remisión,"enfermedad (actual, en remisión, en el pasado)",,4 - Innocuous Persistent
+59,Deterioro de la movilidad o de la marcha en fase de remisión,que tiene deterioro de la movilidad o de la marcha en fase de remisión,discapacidad,,4 - Innocuous Persistent
+60,Cáncer de próstata en la actualidad,que tiene cáncer de próstata en la actualidad,"enfermedad (actual, en remisión, en el pasado)",,4 - Innocuous Persistent
+61,Cáncer de próstata remitido,que tiene cáncer de próstata en fase de remisión,"enfermedad (actual, en remisión, en el pasado)",,4 - Innocuous Persistent
+62,Psoriasis en fase de remisión,que tiene psoriasis en fase de remisión,"enfermedad (actual, en remisión, en el pasado)",,4 - Innocuous Persistent
+63,Paternidad adolescente,que es un padre/madre adolescente,otros,,4 - Innocuous Persistent
+64,Paternidad adolescente en el pasado,que fue padre/madre adolescente,otros,,4 - Innocuous Persistent
+65,Desempleado,que está desempleada,desempleo,,4 - Innocuous Persistent
+66,Voluntariamente sin hijos,que no tiene hijos por voluntad propia,otros,,4 - Innocuous Persistent
+67,Víctima de violación,que ha sido víctima de violación,otros,,4 - Innocuous Persistent
+68,Clase trabajadora o pobre,que es de clase trabajadora,clase social,,4 - Innocuous Persistent
+69,Trabajo manual,que tiene un trabajo manual,clase social,,4 - Innocuous Persistent
+70,Trabajo en servicios,que trabaja en servicios,clase social,,4 - Innocuous Persistent
+71,Alcoholismo en fase de remisión,que tiene adicción al alcohol en fase de remisión,adicción drogas o alcohol,,5 - Unappealing Persistent
+72,Depresión sintomática,que tiene depresión,"enfermedad (actual, en remisión, en el pasado)",enfermedad mental,5 - Unappealing Persistent
+73,Adicción a las drogas en fase de remisión,que tiene adicción a las drogas en fase de remisión,adicción drogas o alcohol,,5 - Unappealing Persistent
+74,Sobrepeso/obesidad,que es gordo o tiene sobrepeso o es obeso,aspecto físico,,5 - Unappealing Persistent
+75,Grasa/sobrepeso/obesidad remitió avg.Gravedad,"que antes era gorda, con sobrepeso u obesa en el pasado",aspecto físico,,5 - Unappealing Persistent
+76,Incontinencia fecal,quien tiene incontinencia fecal,"enfermedad (actual, en remisión, en el pasado)",,5 - Unappealing Persistent
+77,Tener sexo por dinero,que tiene sexo por dinero,otros,,5 - Unappealing Persistent
+78,Analfabetismo,que es analfabeto,clase social,nivel educativo bajo,5 - Unappealing Persistent
+79,Vivienda en viviendas de protección oficial,que vive en viviendas de protección oficial,clase social,,5 - Unappealing Persistent
+80,Consumo recreativo de marihuana,quien consume marihuana de forma recreativa,consumo drogas o alcohol,,5 - Unappealing Persistent
+81,Multiples piercings en el cuerpo,quien tiene múltiples piercings en el cuerpo,aspecto físico,,5 - Unappealing Persistent
+82,Múltiples piercings en la cara,quien tiene múltiples piercings en la cara,aspecto físico,,5 - Unappealing Persistent
+83,Tatuajes múltiples,que tiene múltiples tatuajes,aspecto físico,,5 - Unappealing Persistent
+84,Musulman,musulmana,religion,,5 - Unappealing Persistent
+85,Poliamoroso,que es poliamorosa,orientación sexual,,5 - Unappealing Persistent
+86,Psoriasis en la actualidad,quien tiene psoriasis actualmente,"enfermedad (actual, en remisión, en el pasado)",,5 - Unappealing Persistent
+87,Esquizofrenia en fase de remisión,que tiene esquizofrenía en fase de remisión,"enfermedad (actual, en remisión, en el pasado)",enfermedad mental,5 - Unappealing Persistent
+88,Fuma cigarrillos diariamente,que fumando cigarrillos diariamente,otros,,5 - Unappealing Persistent
+89,Transgénero,que es transgénero,orientación sexual,,5 - Unappealing Persistent
+90,Inmigrante indocumentado,inmigrante indocumentado,"nacionalidad, origen étnico, color de piel",inmigrante indocumentado,5 - Unappealing Persistent
+91,Incontinencia urinaria,que tiene incontinencia urinaria,"enfermedad (actual, en remisión, en el pasado)",,5 - Unappealing Persistent
